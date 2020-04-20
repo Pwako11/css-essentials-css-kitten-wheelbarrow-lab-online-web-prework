@@ -1,6 +1,10 @@
 /* Select the image with a class of kitty-1 */
 
+<<<<<<< HEAD
 .kitty-1 {
+=======
+./*__write_selector_here__*/ {
+>>>>>>> 82b23915a2ce6d7465dabd1fe80ef56230834917
   position: absolute;
   z-index: 1;
   top: 276px;
